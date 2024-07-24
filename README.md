@@ -1,16 +1,6 @@
 # fund_tool_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![splash](https://github.com/user-attachments/assets/38900b7a-af3c-447b-a324-40c205510a24)
+![login](https://github.com/user-attachments/assets/0b7e06f8-9ac9-4d0d-b143-fb7c01875b5d)
+![home1](https://github.com/user-attachments/assets/550ad69c-58f2-4e00-97dc-1a67ddbbca33)
+![home2](https://github.com/user-attachments/assets/ef7dd48f-0358-49bd-9a5c-c489e44c06d6)
